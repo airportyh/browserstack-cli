@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "commander": "1.x",
-    "browseroverflow": "~0.0.6",
+    "browseroverflow": "^0.3.0",
     "cli-table": "~0.2.0"
   },
   "bin": {
